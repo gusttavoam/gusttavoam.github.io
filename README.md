@@ -27,15 +27,11 @@
 ## 📊 Estatísticas do GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gusttavoam&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gusttavoam&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusttavoam&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavoam&layout=compact&theme=radical" alt="Top Langs"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavoam&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
